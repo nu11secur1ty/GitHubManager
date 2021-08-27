@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-# By nu11secur1ty
+# GitManager by nu11secur1ty 2021
 
 user=<YOUR USERNAME IN GITHUB>
 token=<YOUR TOKEN>
