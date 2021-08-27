@@ -1,8 +1,10 @@
 #!/usr/bin/bash
-# By nu11secur1ty
+# GitManager by nu11secur1ty 2021
 
 user=<YOUR USERNAME IN GIT>
 token=<YOUR-TOKEN>
+
+# Test authentication option
 #curl -u $user:$token https://api.github.com/user
 
 echo "Give your userneme in GitHub please..."
