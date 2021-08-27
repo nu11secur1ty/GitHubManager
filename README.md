@@ -10,7 +10,7 @@ bash gitcloner.sh
 ```
 - and follow the steps.
 ---------------------------------------------------------------------------------------------------
-- For deploying your new work for your repository, use
+- For deploying your new work for your repository, no matter what is public or private, use
 ```bash
 bash gitpusher.sh
 ```
