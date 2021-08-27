@@ -12,10 +12,10 @@ echo "Give your username in GitHub, please..."
 
 echo "Give the repository name, please..."
 	read repo
-
+	# Here you will see the list of all files in your inode and the name of your repository!
 	ls -all
 		cd $repo
-	       git add .
+	      		git add .
 echo "Give your comment for your commit, please..."
 		read comment
 		git commit -m "$comment"	
