@@ -4,7 +4,7 @@
 
 ---------------------------------------------------------------------------------------------------
 ## Usage 
-- For cloning of GitHub repository, use
+- For cloning of GitHub repository which is not public, use
 ```bash
 bash gitcloner.sh
 ```
