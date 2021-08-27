@@ -14,7 +14,8 @@ echo "Give the repository name please..."
 	ls -all
 		cd $repo
 	       git add .
-       	echo "Give your comment for your commit..."
-	read comment
-	git commit -m "$comment"	
+echo "Give your comment for your commit..."
+		read comment
+		git commit -m "$comment"	
+
 git push https://$token@github.com/${username}/$repo.git
