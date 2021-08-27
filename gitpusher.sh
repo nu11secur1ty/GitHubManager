@@ -3,7 +3,9 @@
 
 user=<YOUR USERNAME IN GITHUB>
 token=<YOUR TOKEN>
-#curl -u $user:$token https://api.github.com/user
+
+# Test authentication option
+# curl -u $user:$token https://api.github.com/user
 
 echo "Give your username in GitHub, please..."
 	read username
