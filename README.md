@@ -16,5 +16,8 @@ bash gitpusher.sh
 ```
 - and follow the steps, it's easy =)
 
+- Video:
+- - - [+] https://streamable.com/0ld325
+
 ## BR nu11secur1ty
 
