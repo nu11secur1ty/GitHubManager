@@ -7,7 +7,7 @@ token=<YOUR-TOKEN>
 # Test authentication option
 # curl -u $user:$token https://api.github.com/user
 
-echo "Give your username in GitHub, please..."
+echo "Give your user or group in GitHub, please..."
 	read username
 echo "Give the repository name, please..."
 	read repo
